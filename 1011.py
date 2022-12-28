@@ -16,3 +16,5 @@ for _ in range(T):
         print(max_v*2)
     elif sum_n(max_v)*2 < dist:
         print(max_v*2 + 1)
+
+# test
